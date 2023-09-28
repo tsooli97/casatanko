@@ -7,4 +7,6 @@ Unfortunately, Booking.com API isn't available for personal use so I couldn't im
 Some other potential features or functions were also scrapped, but I'm planning to potentially keep expanding this project for practice purposes.
 
 
-[Casa Tanko](https://casatanko.web.app/)
+[Link to Casa Tanko Website](https://casatanko.web.app/)
+
+![Main page view]("https://i.imgur.com/1CqSCEz.png")

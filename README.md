@@ -9,4 +9,4 @@ Some other potential features or functions were also scrapped, but I'm planning 
 
 [Link to Casa Tanko Website](https://casatanko.web.app/)
 
-![Main page view]("https://i.imgur.com/1CqSCEz.png")
+![Main page view](https://i.imgur.com/1CqSCEz.png)
